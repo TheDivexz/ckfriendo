@@ -1,0 +1,4 @@
+999999 = {
+	name = "dynn_Frindia"
+	culture = "franconian"
+}

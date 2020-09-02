@@ -1,0 +1,20 @@
+999999 = {
+	name = "Ted"
+	dynasty = 999999
+	martial = 8
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "franconian"
+	trait = diligent
+	trait = wrathful
+	trait = just
+	trait = education_stewardship_4
+	1045.5.2 = {
+		birth = "1045.5.2"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
