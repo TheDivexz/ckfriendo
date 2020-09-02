@@ -1,5 +1,6 @@
 999999 = {
 	name = "Ted"
+	dna = 999999_ted
 	dynasty = 999999
 	martial = 8
 	diplomacy = 8
