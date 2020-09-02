@@ -1,3 +1,10 @@
+k_lotharingia = {
+	1066.1.1 = {
+	    government = feudal_government
+		holder = 999999 # Ted
+	}
+
+}
 d_lower_lorraine = {
 	1066.1.1 = {
 	    government = feudal_government
