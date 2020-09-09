@@ -246,6 +246,9 @@ c_westfriesland = {
 	1061.6.28 = {
 		holder = 106520 #Dirk V
 	}
+	1066.1.1 = {
+		holder = 999996 #Fraus
+	}
 	1091.6.17 = {
 		holder = 106555 #Floris II
 	}
@@ -316,6 +319,10 @@ c_zeeland = {
 		liege = "d_flanders"
 		holder = 368 #Robert van Vlaanderen
 	}
+	1066.1.1 = {
+		liege = "d_holland"
+		holder = 999980 #Luca
+	}
 	1071.2.22 = {
 		liege = "d_holland"
 		holder = 106520 #Dirk V
@@ -360,6 +367,10 @@ c_zeeland = {
 
 
 d_gelre = {
+	1066.7.1 = {
+		liege = "k_lotharingia"
+		holder = 999977 #Skyler
+	}
 	1337.1.1 = {
 		liege = "e_hre"
 	}
@@ -385,6 +396,10 @@ c_guelders = {
 	}
 	1057.1.11 = {
 		holder = 106540
+	}
+	1066.1.1 = {
+		liege = "d_gelre"
+		holder = 999976 #Walcy
 	}
 	1082.10.19 = {
 		holder = 41720
@@ -443,6 +458,9 @@ c_arnhem = {
 	#1065.1.1 = {
 	#	liege = e_hre
 	#}
+	1066.1.1 = {
+		holder = 999977 #Skyler
+	}
 	1082.10.19 = {
 		holder = 41720
 	}
@@ -519,6 +537,9 @@ c_zutphen = {
 	#1065.1.1 = {
 	#	liege = e_hre
 	#}
+	1066.1.1 = {
+		holder = 999977 #Skyler
+	}
 	1075.1.1 = {
 		holder = 30058 #Dietrich I von Kleve
 	}
@@ -583,6 +604,11 @@ c_nedersticht = {
 	
 	1054.1.1 = {
 		holder = 106530 #Willem van Wassenberg
+	}
+	1066.1.1 = { 
+		government = feudal_government
+		holder = 999979 #Sierra
+		liege = d_utrecht
 	}
 	1076.4.27 = {
 		holder = 30670 #Konrad von Hildesheim
@@ -665,7 +691,7 @@ c_nedersticht = {
 }
 
 d_utrecht = {
-	1066.1.1 = {
+	1066.6.1 = {
 		liege = k_lotharingia
 	}
 	1066.1.1 = {
@@ -1032,6 +1058,10 @@ c_ostfriesland = {
 	}
 	1059.6.29 = {
 		holder = 1416
+	}
+	1066.1.1 = {
+		liege = "d_frisia"
+		holder = 999978 #Stief
 	}
 	1072.3.28 = {
 		holder = 1418

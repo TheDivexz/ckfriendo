@@ -75,7 +75,7 @@
 
 999994 = {
 	name = "Birdy"
-	dna = 99994_birdy
+	dna = 999994_birdy
 	dynasty = 999999
 	religion = "rabbinism"
 	culture = "ashkenazi"
@@ -211,6 +211,72 @@
 	dynasty = 999999
 	religion = "catholic"
 	culture = "danish"
+	1045.5.2 = {
+		birth = "1045.5.2"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+999980 = {
+	name = "Luca"
+	dna = 999998_luca
+	dynasty = 999999
+	religion = "catholic"
+	culture = "italian"
+	1045.5.2 = {
+		birth = "1045.5.2"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+999979 = {
+	name = "Sierra"
+	dna = 999980_sierra
+	#dynasty = 999999
+	religion = "catholic"
+	culture = "polish"
+	female = yes
+	1045.5.2 = {
+		birth = "1045.5.2"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+999978 = {
+	name = "Stief"
+	#dna = 999979_stief
+	dynasty = 999999
+	religion = "catholic"
+	culture = "franconian"
+	1045.5.2 = {
+		birth = "1045.5.2"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+999977 = {
+	name = "Skyler"
+	#dna = 999978_skyler
+	dynasty = 999999
+	religion = "catholic"
+	culture = "franconian"
+	1051.12.12 = {
+		birth = "1051.12.12"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+999976 = {
+	name = "Walcy"
+	#dna = 999977_Walcy
+	dynasty = 999999
+	religion = "catholic"
+	culture = "anglo_saxon"
 	1045.5.2 = {
 		birth = "1045.5.2"
 	}
