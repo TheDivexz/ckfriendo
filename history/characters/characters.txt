@@ -175,7 +175,7 @@
 	dna = 999988_ahmed
 	dynasty = 999999
 	religion = "maturidi"
-	culture = "oghuz"
+	culture = "turkish"
 	father = 999969
 	1039.1.30 = {
 		birth = "1039.1.30"
@@ -553,5 +553,19 @@
 	}
 	900.4.28 = {
 		death = "900.4.28"
+	}
+}
+999962 = {
+	name = "Mimi"
+	#dna = 999962_mimi
+	dynasty = 999999
+	religion = "catholic"
+	culture = "greek"
+	father = 999966
+	1046.10.14 = {
+		birth = "1046.10.14"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
 	}
 }

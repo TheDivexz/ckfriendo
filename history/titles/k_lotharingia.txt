@@ -127,6 +127,7 @@ k_lotharingia = {
 	1066.1.1 = {
 	    government = feudal_government
 		holder = 999999 # Ted
+		liege = e_hre
 	}
 }
 
@@ -2711,7 +2712,7 @@ c_bergh = {
 		liege = "d_lower_lorraine"
 	}
 	1066.1.1={
-		holder=999987 #Jojo
+		holder = 999962 #Mimi
 		liege = k_lotharingia
 	}
 	1093.1.1={
