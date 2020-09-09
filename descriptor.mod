@@ -3,4 +3,4 @@ tags={
 	"Character Focuses"
 }
 name="CKFriendo"
-supported_version="1.0.2"
+supported_version="1.0.*"
