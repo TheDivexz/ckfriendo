@@ -15,6 +15,205 @@
 	1045.5.2 = {
 		birth = "1045.5.2"
 	}
+	1066.1.1 = {
+		add_spouse = 999987 #Jojo
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999996 = {
+	name = "Fraus"
+	dna = 999996_fraus
+	dynasty = 999999
+	religion = "catholic"
+	culture = "swedish"
+	1045.5.5 = {
+		birth = "1045.5.5"
+	}
+	1066.1.1 = {
+		add_spouse = 999997 #Maja
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+#had to add the wife after the husband otherwise the game doesn't register it
+# remember kids, always put the husband before the wife
+# Strangely this problem didn't occur with Bunny and Birdy
+999997 = {
+	name = "Maja"
+	dna = 999997_maja
+	#dynasty = 999999
+	religion = "catholic"
+	culture = "swedish"
+	female = yes
+	1045.9.6 = {
+		birth = "1045.9.6"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999995 = {
+	name = "Bunny"
+	dna = 999995_bunny
+	#dynasty = 999999
+	religion = "catholic"
+	culture = "franconian"
+	female = yes
+	1046.7.16 = {
+		birth = "1046.7.16"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999994 = {
+	name = "Birdy"
+	dna = 99994_birdy
+	dynasty = 999999
+	religion = "rabbinism"
+	culture = "ashkenazi"
+	1045.8.17 = {
+		birth = "1045.8.17"
+	}
+	1066.1.1 = {
+		add_spouse = 999995
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999992 = {
+	name = "Luke"
+	dna = 999992_luke
+	dynasty = 999999
+	religion = "rabbinism"
+	culture = "ashkenazi"
+	1048.12.12 = {
+		birth = "1048.12.12"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999991 = {
+	name = "Didi"
+	dna = 999991_didi
+	dynasty = 999999
+	religion = "shaivism"
+	culture = "gujarati"
+	1045.6.1 = {
+		birth = "1045.6.1"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999987 = {
+	name = "Jojo"
+	#dna = 999987_jojo
+	#dynasty = 999999
+	religion = "catholic"
+	culture = "franconian"
+	female = yes
+	1045.5.2 = {
+		birth = "1045.5.2"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999986 = {
+	name = "Aco"
+	#dna = 999986_aco
+	dynasty = 999999
+	religion = "orthodox"
+	culture = "serbian"
+	1048.12.12 = {
+		birth = "1048.12.12"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999985 = {
+	name = "Unit"
+	#dna = 999985_unit
+	dynasty = 999999
+	religion = "catholic"
+	culture = "franconian"
+	1050.12.12 = {
+		birth = "1050.12.12"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999984 = {
+	name = "Zander"
+	#dna = 999984_zander
+	dynasty = 999999
+	religion = "catholic"
+	culture = "georgian"
+	1051.12.12 = {
+		birth = "1051.12.12"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999983 = {
+	name = "Duckling"
+	#dna = 999983_duckling
+	dynasty = 999999
+	religion = "shaivism"
+	culture = "kannada"
+	1048.12.12 = {
+		birth = "1048.12.12"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999982 = {
+	name = "Jasper"
+	#dna = 999982_Jasper
+	dynasty = 999999
+	religion = "rabbinism"
+	culture = "ashkenazi"
+	father = 999994 #Birdy
+	mother = 999995 #Bunny
+	1066.8.29 = {
+		birth = "1066.8.29"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999981 = {
+	name = "Mathias"
+	#dna = 999981_Mathias
+	dynasty = 999999
+	religion = "catholic"
+	culture = "danish"
+	1045.5.2 = {
+		birth = "1045.5.2"
+	}
 	1076.4.28 = {
 		death = "1076.4.28"
 	}
