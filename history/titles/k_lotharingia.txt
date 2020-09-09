@@ -332,6 +332,9 @@ c_bouillon = {
 	1059.8.14 = {
 		holder = 106650 #Konrad ##Tweaked from 1066 to be more accurate.
 	}
+	1066.1.1 = {
+		holder = 999961 # Shreeya
+	}
 	1086.1.1 = {
 		holder = 500000
 	}

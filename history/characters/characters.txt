@@ -134,6 +134,9 @@
 	1045.6.1 = {
 		birth = "1045.6.1"
 	}
+	1066.1.1 = {
+		add_spouse = 999961 # Shreeya
+	}
 	1076.4.28 = {
 		death = "1076.4.28"
 	}
@@ -563,6 +566,21 @@
 	culture = "greek"
 	father = 999966
 	1046.10.14 = {
+		birth = "1046.10.14"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999961 = {
+	name = "Shreeya"
+	dna = 999961_shreeya
+	#dynasty = 999999
+	religion = "krishnaism"
+	culture = "gujarati"
+	female = yes
+	1044.12.10 = {
 		birth = "1046.10.14"
 	}
 	1076.4.28 = {
