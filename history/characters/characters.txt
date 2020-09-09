@@ -12,6 +12,7 @@
 	trait = wrathful
 	trait = just
 	trait = education_stewardship_4
+	father = 999971
 	1045.5.2 = {
 		birth = "1045.5.2"
 	}
@@ -29,6 +30,7 @@
 	dynasty = 999999
 	religion = "catholic"
 	culture = "swedish"
+	father = 999971
 	1045.5.5 = {
 		birth = "1045.5.5"
 	}
@@ -79,6 +81,7 @@
 	dynasty = 999999
 	religion = "rabbinism"
 	culture = "ashkenazi"
+	father = 999971
 	1045.8.17 = {
 		birth = "1045.8.17"
 	}
@@ -97,6 +100,7 @@
 	religion = "catholic"
 	culture = "bavarian"
 	female = yes
+	father = 999971
 	1048.9.30 = {
 		birth = "1048.9.30"
 	}
@@ -111,6 +115,7 @@
 	dynasty = 999999
 	religion = "rabbinism"
 	culture = "ashkenazi"
+	father = 999970
 	1048.12.12 = {
 		birth = "1048.12.12"
 	}
@@ -125,6 +130,7 @@
 	dynasty = 999999
 	religion = "shaivism"
 	culture = "gujarati"
+	father = 999970
 	1045.6.1 = {
 		birth = "1045.6.1"
 	}
@@ -140,6 +146,7 @@
 	religion = "catholic"
 	culture = "franconian"
 	female = yes
+	father = 999970
 	1048.5.1 = {
 		birth = "1045.6.1"
 	}
@@ -154,6 +161,7 @@
 	dynasty = 999999
 	religion = "catholic"
 	culture = "irish"
+	father = 999970
 	1047.3.28 = {
 		birth = "1047.3.28"
 	}
@@ -168,6 +176,7 @@
 	dynasty = 999999
 	religion = "maturidi"
 	culture = "oghuz"
+	father = 999969
 	1039.1.30 = {
 		birth = "1039.1.30"
 	}
@@ -197,6 +206,7 @@
 	dynasty = 999999
 	religion = "orthodox"
 	culture = "serbian"
+	father = 999969
 	1048.12.12 = {
 		birth = "1048.12.12"
 	}
@@ -211,6 +221,7 @@
 	dynasty = 999999
 	religion = "catholic"
 	culture = "franconian"
+	father = 999969
 	1050.12.12 = {
 		birth = "1050.12.12"
 	}
@@ -225,6 +236,7 @@
 	dynasty = 999999
 	religion = "catholic"
 	culture = "georgian"
+	father = 999969
 	1051.12.12 = {
 		birth = "1051.12.12"
 	}
@@ -239,6 +251,7 @@
 	dynasty = 999999
 	religion = "shaivism"
 	culture = "kannada"
+	father = 999968
 	1048.12.12 = {
 		birth = "1048.12.12"
 	}
@@ -269,6 +282,7 @@
 	dynasty = 999999
 	religion = "catholic"
 	culture = "danish"
+	father = 999968
 	1045.5.2 = {
 		birth = "1045.5.2"
 	}
@@ -282,6 +296,7 @@
 	dynasty = 999999
 	religion = "catholic"
 	culture = "italian"
+	father = 999968
 	1045.5.2 = {
 		birth = "1045.5.2"
 	}
@@ -296,6 +311,7 @@
 	religion = "catholic"
 	culture = "polish"
 	female = yes
+	father = 999968
 	1045.5.2 = {
 		birth = "1045.5.2"
 	}
@@ -309,6 +325,7 @@
 	dynasty = 999999
 	religion = "catholic"
 	culture = "franconian"
+	father = 999967
 	1045.5.2 = {
 		birth = "1045.5.2"
 	}
@@ -322,6 +339,7 @@
 	dynasty = 999999
 	religion = "catholic"
 	culture = "franconian"
+	father = 999967
 	1051.12.12 = {
 		birth = "1051.12.12"
 	}
@@ -335,6 +353,7 @@
 	dynasty = 999999
 	religion = "catholic"
 	culture = "anglo_saxon"
+	father = 999967
 	1045.5.2 = {
 		birth = "1045.5.2"
 	}
@@ -349,6 +368,7 @@
 	dynasty = 999999
 	religion = "catholic"
 	culture = "anglo_saxon"
+	father = 999967
 	1048.11.13 = {
 		birth = "1048.12.12"
 	}
@@ -363,6 +383,7 @@
 	dynasty = 999999
 	religion = "catholic"
 	culture = "polish"
+	father = 999966
 	1046.10.14 = {
 		birth = "1046.10.14"
 	}
@@ -377,6 +398,7 @@
 	dynasty = 999999
 	religion = "imami"
 	culture = "persian"
+	father = 999966
 	1043.11.15 = {
 		birth = "1043.11.15"
 	}
@@ -387,14 +409,149 @@
 
 999972 = {
 	name = "Aidan"
-	#dna = 999972_Aidan
+	#dna = 999972_aidan
 	dynasty = 999999
 	religion = "catholic"
 	culture = "franconian"
+	father = 999966
 	1046.9.16 = {
 		birth = "1046.9.16"
 	}
 	1076.4.28 = {
 		death = "1076.4.28"
+	}
+}
+
+999971 = {
+	name = "Terady"
+	#dna = 999971_terady
+	dynasty = 999999
+	religion = "catholic"
+	culture = "franconian"
+	father = 999965
+	1006.8.17 = {
+		birth = "1006.8.17"
+	}
+	1065.4.28 = {
+		death = "1065.4.28"
+	}
+}
+
+999970 = {
+	name = "Ludilett"
+	#dna = 999970_ludilett
+	dynasty = 999999
+	religion = "catholic"
+	culture = "franconian"
+	father = 999965
+	1006.7.18 = {
+		birth = "1006.7.18"
+	}
+	1065.4.28 = {
+		death = "1065.4.28"
+	}
+}
+
+999969 = {
+	name = "Zahcoit"
+	#dna = 999969_zahcoit
+	dynasty = 999999
+	religion = "catholic"
+	culture = "franconian"
+	father = 999965
+	1006.6.19 = {
+		birth = "1006.7.18"
+	}
+	1065.4.28 = {
+		death = "1065.4.28"
+	}
+}
+
+999968 = {
+	name = "Duthcara"
+	#dna = 999968_duthcara
+	dynasty = 999999
+	religion = "catholic"
+	culture = "franconian"
+	father = 999964
+	1006.5.18 = {
+		birth = "1006.5.18"
+	}
+	1065.4.28 = {
+		death = "1065.4.28"
+	}
+}
+
+999967 = {
+	name = "Jawleif"
+	#dna = 999967_jawleif
+	dynasty = 999999
+	religion = "catholic"
+	culture = "franconian"
+	father = 999964
+	1006.5.18 = {
+		birth = "1006.5.18"
+	}
+	1065.4.28 = {
+		death = "1065.4.28"
+	}
+}
+
+999966 = {
+	name = "Jossen"
+	#dna = 999966_jossen
+	dynasty = 999999
+	religion = "catholic"
+	culture = "franconian"
+	father = 999964
+	1006.4.19 = {
+		birth = "1006.4.19"
+	}
+	1065.4.28 = {
+		death = "1065.4.28"
+	}
+}
+
+999965 = {
+	name = "Red"
+	#dna = 999965_red
+	dynasty = 999999
+	religion = "catholic"
+	culture = "franconian"
+	father = 999963
+	947.3.20 = {
+		birth = "947.3.20"
+	}
+	1000.5.27 = {
+		death = "1000.5.27"
+	}
+}
+
+999964 = {
+	name = "Blue"
+	#dna = 999964_blue
+	dynasty = 999999
+	religion = "catholic"
+	culture = "franconian"
+	father = 999963
+	947.2.21 = {
+		birth = "947.2.21"
+	}
+	1000.5.27 = {
+		death = "1000.5.27"
+	}
+}
+
+999963 = {
+	name = "FriendoU"
+	#dna = 999963_friendou
+	dynasty = 999999
+	religion = "catholic"
+	culture = "franconian"
+	862.1.22 = {
+		birth = "862.1.22"
+	}
+	900.4.28 = {
+		death = "900.4.28"
 	}
 }
