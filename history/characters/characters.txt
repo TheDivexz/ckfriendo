@@ -90,6 +90,21 @@
 	}
 }
 
+999993 = {
+	name = "Diana"
+	dna = 999993_diana
+	dynasty = 999999
+	religion = "catholic"
+	culture = "bavarian"
+	female = yes
+	1048.9.30 = {
+		birth = "1048.9.30"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
 999992 = {
 	name = "Luke"
 	dna = 999992_luke
@@ -112,6 +127,49 @@
 	culture = "gujarati"
 	1045.6.1 = {
 		birth = "1045.6.1"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999990 = {
+	name = "Isley"
+	dna = 999990_isley
+	dynasty = 999999
+	religion = "catholic"
+	culture = "franconian"
+	female = yes
+	1048.5.1 = {
+		birth = "1045.6.1"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999989 = {
+	name = "Wyatt"
+	dna = 999989_wyatt
+	dynasty = 999999
+	religion = "catholic"
+	culture = "irish"
+	1047.3.28 = {
+		birth = "1047.3.28"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999988 = {
+	name = "Ahmed"
+	dna = 999988_ahmed
+	dynasty = 999999
+	religion = "maturidi"
+	culture = "oghuz"
+	1039.1.30 = {
+		birth = "1039.1.30"
 	}
 	1076.4.28 = {
 		death = "1076.4.28"
@@ -279,6 +337,62 @@
 	culture = "anglo_saxon"
 	1045.5.2 = {
 		birth = "1045.5.2"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999975 = {
+	name = "Jack"
+	#dna = 999975_Jack
+	dynasty = 999999
+	religion = "catholic"
+	culture = "anglo_saxon"
+	1048.11.13 = {
+		birth = "1048.12.12"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999974 = {
+	name = "Jonneh"
+	#dna = 999974_Jonneh
+	dynasty = 999999
+	religion = "catholic"
+	culture = "polish"
+	1046.10.14 = {
+		birth = "1046.10.14"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999973 = {
+	name = "Hassan"
+	#dna = 999973_hassan
+	dynasty = 999999
+	religion = "imami"
+	culture = "persian"
+	1043.11.15 = {
+		birth = "1043.11.15"
+	}
+	1076.4.28 = {
+		death = "1076.4.28"
+	}
+}
+
+999972 = {
+	name = "Aidan"
+	#dna = 999972_Aidan
+	dynasty = 999999
+	religion = "catholic"
+	culture = "franconian"
+	1046.9.16 = {
+		birth = "1046.9.16"
 	}
 	1076.4.28 = {
 		death = "1076.4.28"

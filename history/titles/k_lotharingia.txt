@@ -386,7 +386,6 @@ c_liege = {
 		liege = "k_lotharingia"
 	}
 	858.1.1 = {
-		government = theocracy_government
 		holder = 163050
 	}
 	903.1.1 = {
@@ -396,7 +395,8 @@ c_liege = {
 	#	liege = e_hre
 	#}
 	1066.1.1 = {
-		holder = 999991
+		holder = 999993 #Diana
+		liege = d_luxembourg
 	}
 	1075.6.23 = {
 		holder = 33204
@@ -503,7 +503,8 @@ c_namur = {
 		liege = "d_lower_lorraine"
 	}
 	1066.1.1 = {
-		holder = 106610
+		holder = 999988
+		liege = d_luxembourg
 	}
 	1075.6.23 = {
 		holder = 33204
@@ -966,6 +967,10 @@ c_cambray = {
 	#1065.1.1 = {
 	#	liege = k_france
 	#}
+	1066.1.1 = {
+		holder = 999989 # Wyatt
+		liege = d_brabant
+	}
 	1070.7.17 = {
 		liege = "d_flanders"
 		holder = 366 #Arnulf III
@@ -1168,6 +1173,10 @@ c_cleves = {
 	#1065.1.1 = {
 	#	liege = e_hre
 	#}
+	1066.1.1 = {
+		holder = 999990 # Isley
+		liege = d_julich
+	}
 	1075.1.1 = {
 		holder = 30058 #Dietrich I von Kleve
 	}
@@ -1264,6 +1273,10 @@ c_maastricht = {
 	}
 	1051.1.1 = {
 		holder = 20253 #Gerhard II
+	}
+	1066.1.1 = {
+		holder = 999973 # Gassan
+		liege = d_julich
 	}
 	1085.1.1 = {
 		holder = 20254 #Gerhard III
@@ -1791,7 +1804,7 @@ c_saarbrucken = {
 		holder = 20217
 	}
 	1066.1.1 = {
-		holder = 70825
+		holder = 999972 # Aidan
 	}
 	1085.9.20 = {
 		holder = 7586
@@ -2399,14 +2412,16 @@ c_arnsberg = {
 		liege = 0
 	}
 	842.1.1 = {
-		government = theocracy_government
 		liege = "d_westfalen"
 		holder = 163054
 	}
 	1063.1.1 = {
 		holder = 20218 #Friedrich Wettin
 	}
-	
+	1066.1.1 = {
+		holder = 999975 # Jack
+		liege = k_lotharingia
+	}
 	1084.4.18 = {
 		holder = 30314 #Erpho von Münster
 	}
@@ -2524,6 +2539,9 @@ c_mark = {
 	#1065.1.1 = {
 	#	liege = e_hre
 	#}
+	1066.1.1 = {
+		holder = 999974
+	}
 	1075.12.4 = {
 		holder = 33157
 	}
