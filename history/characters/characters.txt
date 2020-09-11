@@ -47,6 +47,12 @@
 	}
 	1066.1.1 = {
 		add_spouse = 999997 #Maja
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
 	}
 	1076.4.28 = {
 		death = "1076.4.28"
@@ -74,6 +80,14 @@
 	female = yes
 	1045.9.6 = {
 		birth = "1045.9.6"
+	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
 	}
 	1076.4.28 = {
 		death = "1076.4.28"
@@ -125,6 +139,16 @@
 	}
 	1066.1.1 = {
 		add_spouse = 999995
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
 	}
 	1076.4.28 = {
 		death = "1076.4.28"
@@ -151,6 +175,14 @@
 	1048.9.30 = {
 		birth = "1048.9.30"
 	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
 	1076.4.28 = {
 		death = "1076.4.28"
 	}
@@ -175,6 +207,18 @@
 	father = 999970
 	1048.12.12 = {
 		birth = "1048.12.12"
+	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
 	}
 	1076.4.28 = {
 		death = "1076.4.28"
@@ -202,6 +246,16 @@
 	}
 	1066.1.1 = {
 		add_spouse = 999961 # Shreeya
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
 	}
 	1076.4.28 = {
 		death = "1076.4.28"
@@ -228,6 +282,14 @@
 	1048.5.1 = {
 		birth = "1045.6.1"
 	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
 	1076.4.28 = {
 		death = "1076.4.28"
 	}
@@ -251,6 +313,14 @@
 	father = 999970
 	1047.3.28 = {
 		birth = "1047.3.28"
+	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
 	}
 	1076.4.28 = {
 		death = "1076.4.28"
@@ -300,6 +370,14 @@
 	1045.5.2 = {
 		birth = "1045.5.2"
 	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
 	1076.4.28 = {
 		death = "1076.4.28"
 	}
@@ -323,6 +401,18 @@
 	father = 999969
 	1048.12.12 = {
 		birth = "1048.12.12"
+	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
 	}
 	1076.4.28 = {
 		death = "1076.4.28"
@@ -348,6 +438,18 @@
 	1050.12.12 = {
 		birth = "1050.12.12"
 	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
 	1076.4.28 = {
 		death = "1076.4.28"
 	}
@@ -372,6 +474,14 @@
 	1051.12.12 = {
 		birth = "1051.12.12"
 	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
 	1076.4.28 = {
 		death = "1076.4.28"
 	}
@@ -395,6 +505,18 @@
 	father = 999968
 	1048.12.12 = {
 		birth = "1048.12.12"
+	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
 	}
 	1076.4.28 = {
 		death = "1076.4.28"
@@ -436,6 +558,14 @@
 	1045.5.2 = {
 		birth = "1045.5.2"
 	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
 	1076.4.28 = {
 		death = "1076.4.28"
 	}
@@ -458,6 +588,14 @@
 	father = 999968
 	1045.5.2 = {
 		birth = "1045.5.2"
+	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
 	}
 	1076.4.28 = {
 		death = "1076.4.28"
@@ -483,6 +621,14 @@
 	1045.5.2 = {
 		birth = "1045.5.2"
 	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
 	1076.4.28 = {
 		death = "1076.4.28"
 	}
@@ -505,6 +651,14 @@
 	father = 999967
 	1045.5.2 = {
 		birth = "1045.5.2"
+	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
 	}
 	1076.4.28 = {
 		death = "1076.4.28"
@@ -529,6 +683,14 @@
 	1051.12.12 = {
 		birth = "1051.12.12"
 	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
 	1076.4.28 = {
 		death = "1076.4.28"
 	}
@@ -551,6 +713,14 @@
 	father = 999967
 	1045.5.2 = {
 		birth = "1045.5.2"
+	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
 	}
 	1076.4.28 = {
 		death = "1076.4.28"
@@ -576,6 +746,18 @@
 	1048.11.13 = {
 		birth = "1048.12.12"
 	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
 	1076.4.28 = {
 		death = "1076.4.28"
 	}
@@ -599,6 +781,14 @@
 	father = 999966
 	1046.10.14 = {
 		birth = "1046.10.14"
+	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
 	}
 	1076.4.28 = {
 		death = "1076.4.28"
@@ -647,6 +837,18 @@
 	father = 999966
 	1046.9.16 = {
 		birth = "1046.9.16"
+	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
 	}
 	1076.4.28 = {
 		death = "1076.4.28"
@@ -805,6 +1007,14 @@
 	1046.10.14 = {
 		birth = "1046.10.14"
 	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
 	1076.4.28 = {
 		death = "1076.4.28"
 	}
@@ -824,6 +1034,14 @@
 	female = yes
 	1044.12.10 = {
 		birth = "1046.10.14"
+	}
+	1066.1.1 = {
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
 	}
 	1076.4.28 = {
 		death = "1076.4.28"

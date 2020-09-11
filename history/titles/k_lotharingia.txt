@@ -1279,7 +1279,7 @@ c_maastricht = {
 		holder = 20253 #Gerhard II
 	}
 	1066.1.1 = {
-		holder = 999973 # Gassan
+		holder = 999973 # Hassan
 		liege = d_julich
 	}
 	1085.1.1 = {
