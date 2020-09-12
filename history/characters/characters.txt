@@ -67,7 +67,7 @@
 	learning = 8
 	religion = "catholic"
 	culture = "swedish"
-	trait = stubborn
+	trait = chaste
 	trait = honest
 	trait = compassionate
 	trait = education_learning_4
